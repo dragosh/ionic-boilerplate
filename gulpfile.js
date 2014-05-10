@@ -60,7 +60,7 @@ gulp.task('webserver', function() {
         root: [ src ], //paths.root,
         livereload: true,
         port: 8000,
-        host: 'moovz.app'
+        host: 'myapp'
     });
 });
 
